@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GiliKing
 - 👀 I’m interested in Backend web Development
-- 🌱 I’m currently learning Vuejs and tailwindcss
 - 💞️ I’m looking to collaborate on building web applications
 - 📫 How to reach me  email : chrisogili12@gmail.com 
 
